@@ -12,7 +12,7 @@ Navigate to localhost:8080.
 
 ## What is it?
 
-This is a tiny demo for closed captioning a video based on data fetched from the server. It's all built in Vue with Vuex to manage the state tree (as small as it is).
+This is a tiny demo for closed captioning a video based on data fetched from the server. It's all built in Vue with Vuex to manage the state tree (as small as it is). React version can be found [here](https://gitlab.com/patrickfatrick/closed-captioning-demo-react).
 
 My main concerns were to make it realistic and functional.
 
