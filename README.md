@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-$ git clone git@gitlab.com:patrickfatrick/closed-captioning-demo.git
+$ git clone git@gitlab.com:patrickfatrick/closed-captioning-demo-vue.git
 $ npm install
 $ npm run dev
 ```
