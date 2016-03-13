@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     // Handler for video's `timeupdate` event
-    timeUpdate (e) {
+    timeUpdate () {
       this.setTimestamp(this.$els.playback.currentTime)
       this.setActiveCaption(this.video.timestamp)
       // If scrolling is turned on, send an 'update-scroll' event down to the captions component
