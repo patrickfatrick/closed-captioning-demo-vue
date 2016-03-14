@@ -34,7 +34,10 @@
     "es6-promise": "^3.1.2",
     "isomorphic-fetch": "^2.2.1",
     "vue": "^1.0.17",
-    "vuex": "^0.6.2",
-    "whatwg-fetch": "^0.11.0"
+    "vuex": "^0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/patrickfatrick/closed-captioning-demo-vue.git"
   }
 }
